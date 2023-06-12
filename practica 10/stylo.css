@@ -1,0 +1,20 @@
+body{
+    background-image: url('fondo.jpg');
+    padding: 15px;
+    justify-content: center;
+    width: 400px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Times New Roman';
+    color: black;
+}
+button{
+    background-color:rgba(0, 13, 128, 0.587);
+}
+h1{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(6, 51, 123, 0.511);
+}
