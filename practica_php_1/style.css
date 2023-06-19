@@ -1,0 +1,23 @@
+h1{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(6, 51, 123, 0.511);
+}
+body{
+    background-image: url('nuevo.jpg');
+    padding: 15px;
+    justify-content: center;
+    width: 400px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Times New Roman';
+    color: black;
+}
+input{
+    background-color:antiquewhite;
+}
+fieldset{
+    background-color: plum;
+}
